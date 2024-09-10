@@ -17,7 +17,7 @@
                     <a href="modulos/login/login.php"><button class="rounded hover:bg-cyan-950 p-2">Login</button></a>
                 </div>
                 <div id="btn_cadastro" class="mr-5">
-                    <a href="modulos/cadastro/cadastro.php"><button class="rounded hover:bg-cyan-950 p-2">Cadastre-se</button></a>
+                    <a href="modulos/cadastro/cadastro.php"><button class="rounded-md hover:bg-cyan-950 p-2">Cadastre-se</button></a>
                 </div>
             </div>
         </div>
